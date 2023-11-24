@@ -1,0 +1,4 @@
+#term ID	term description	observed gene count	background gene count	strength	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+GO:0030674	Protein-macromolecule adaptor activity	5	322	1.44	0.0026	9606.ENSP00000231487,9606.ENSP00000301764,9606.ENSP00000326804,9606.ENSP00000384109,9606.ENSP00000414095	SKP1,DDB1,CUL1,CUL4B,CUL2
+GO:0097602	Cullin family protein binding	3	27	2.3	0.0026	9606.ENSP00000216225,9606.ENSP00000231487,9606.ENSP00000301764	RBX1,SKP1,DDB1
+GO:0031625	Ubiquitin protein ligase binding	4	299	1.38	0.0205	9606.ENSP00000216225,9606.ENSP00000326804,9606.ENSP00000384109,9606.ENSP00000414095	RBX1,CUL1,CUL4B,CUL2
